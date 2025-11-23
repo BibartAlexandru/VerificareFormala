@@ -1,5 +1,5 @@
 ### Paper
-https://www.overleaf.com/project/691c86e1e4e18e9c47b9b4dc
+https://www.overleaf.com/read/qggdmytfnnbm#c4e797
 
 ### Downloading the benchmarks
 - Navigate to: https://benchmark-database.de/?track=main_2025&context=cnf
