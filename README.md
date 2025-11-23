@@ -1,3 +1,6 @@
+### Paper
+https://www.overleaf.com/project/691c86e1e4e18e9c47b9b4dc
+
 ### Downloading the benchmarks
 - Navigate to: https://benchmark-database.de/?track=main_2025&context=cnf
 - Click on the 'hash' section next to the benchmark you want to download
